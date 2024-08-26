@@ -22,6 +22,9 @@ To enhance user experience, the dashboard is designed with interactivity in mind
 
 This dashboard not only serves as a tool for tracking Olympic performance but also as a resource for analyzing broader trends in global sports, gender equality, and international representation in the Olympic Games. Through this visualization, users can gain valuable insights into the dynamics of the Paris 2024 Olympics, fostering a deeper appreciation for the event's global significance and the achievements of its athletes.
 
+## Sample 
+![Report_Page1](https://github.com/Deepak2002kumar/Paris-Olympic-Dashboard/blob/main/Report_Page1.png?raw=true)
+
 ## Key Highlights
 
 ### Athlete and Country Participation
